@@ -8,5 +8,7 @@
     <true/>
     <key>StartIntercal</key>
     <integer>43200</integer>
+    <key>ProgramArguments</key>
+    <string>~/Downloads/themer_mac.sh</string>
   </dict>
 </plist>
