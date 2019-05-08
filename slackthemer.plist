@@ -5,7 +5,9 @@
     <key>Label</key>
     <string>com.slackthemer.daemon.plist</string>
     <key>ProgramArguments</key>
-    <string>~/Downloads/themer_mac.sh</string>
+    <array>
+      <string>~/Downloads/themer_mac.sh</string>
+    </array>
     <key>RunAtLoad</key>
     <true/>
     <key>StartIntercal</key>
