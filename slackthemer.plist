@@ -4,11 +4,11 @@
   <dict>
     <key>Label</key>
     <string>com.slackthemer.daemon.plist</string>
+    <key>ProgramArguments</key>
+    <string>~/Downloads/themer_mac.sh</string>
     <key>RunAtLoad</key>
     <true/>
     <key>StartIntercal</key>
     <integer>43200</integer>
-    <key>ProgramArguments</key>
-    <string>~/Downloads/themer_mac.sh</string>
   </dict>
 </plist>
