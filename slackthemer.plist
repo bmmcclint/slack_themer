@@ -8,6 +8,8 @@
     <array>
       <string>~/Downloads/themer_mac.sh</string>
     </array>
+    <key>StandardOutPath</key>
+    <string>~/Desktop/stdout.log</string>
     <key>RunAtLoad</key>
     <true/>
     <key>StartIntercal</key>
