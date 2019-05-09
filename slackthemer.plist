@@ -4,13 +4,17 @@
   <dict>
     <key>Label</key>
     <string>slackthemer</string>
-    <key>Program</key>
-    <string>~/Downloads/themer_mac.sh</string>    
+    <key>ProgramArguments</key>
+    <array>
+      <string>~/Downloads/themer_mac.sh</string>
+    </array>    
     <key>RunAtLoad</key>
-    <true/>    
+    <true/> 
+    <key>StandardOutPath</key>
+    <string>~/Desktop/slackthemerlog.log</string>
+    <key>StandardErrorPath</key>
+    <string>~/Desktop/slackthemererror.log</string>  
     <key>StartInterval</key>
     <integer>60</integer>    
-    <key>KeepAlive</key>
-    <true/>
   </dict>
 </plist>
