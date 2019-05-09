@@ -8,9 +8,6 @@
     <key>Program</key>
       <string>~/Downloads/themer_mac.sh</string>
     
-    <key>StandardOutPath</key>
-      <string>~/Desktop/stdout.log</string>
-    
     <key>RunAtLoad</key>
       <true/>
     
