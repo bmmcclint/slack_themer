@@ -4,16 +4,12 @@
   <dict>
     <key>Label</key>
     <string>slackthemer</string>
-    
     <key>Program</key>
-    <string>~/Downloads/themer_mac.sh</string>
-    
+    <string>~/Downloads/themer_mac.sh</string>    
     <key>RunAtLoad</key>
-    <true/>
-    
+    <true/>    
     <key>StartInterval</key>
-    <integer>20</integer>
-    
+    <integer>20</integer>    
     <key>KeepAlive</key>
     <true/>
   </dict>
