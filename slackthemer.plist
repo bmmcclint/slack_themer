@@ -9,7 +9,7 @@
     <key>RunAtLoad</key>
     <true/>    
     <key>StartInterval</key>
-    <integer>43200</integer>    
+    <integer>60</integer>    
     <key>KeepAlive</key>
     <true/>
   </dict>
