@@ -3,16 +3,21 @@
 <plist version="1.0">
   <dict>
     <key>Label</key>
-    <string>com.slackthemer.daemon.plist</string>
-    <key>ProgramArguments</key>
-    <array>
+      <string>slackthemer</string>
+    
+    <key>Program</key>
       <string>~/Downloads/themer_mac.sh</string>
-    </array>
+    
     <key>StandardOutPath</key>
-    <string>~/Desktop/stdout.log</string>
+      <string>~/Desktop/stdout.log</string>
+    
     <key>RunAtLoad</key>
-    <true/>
-    <key>StartIntercal</key>
-    <integer>43200</integer>
+      <true/>
+    
+    <key>StartInterval</key>
+      <integer>20</integer>
+    
+    <key>KeepAlive</>
+      <true/>
   </dict>
 </plist>
